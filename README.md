@@ -1,1 +1,1 @@
-# AIDI-2004
+its a simple python script
